@@ -9,7 +9,7 @@ Config.Main = {
 	ParkVehicles = true, -- true = Automatically Park all Vehicles in Garage on Server/Script Restart | false = Opposite of true but players will have to go to Pound to get their Vehicle Back.
 	KickCheaters = true, -- true = Kick Player that tries to Cheat Garage by changing Vehicle Hash/Plate.
 	CustomKickMsg = false, -- true = Sets Custom Kick Message for those that try to Cheat. Note: "Config.KickPossibleCheaters" must be true.
-	GiveSocMoney = false, -- true = Gives money to society_mechanic. Note: REQUIRES esx_mechanicjob.
+	GiveSocMoney = true, -- true = Gives money to society_mechanic. Note: REQUIRES esx_mechanicjob.
 	ShowVehLoc = true, -- true = Will show Location of Vehicles in the Garage Menus.
 	Spacers = true, -- true = Shows Spacers in Menus.
 	PoundTimer = false, -- true = Uses Pound Timer
