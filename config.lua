@@ -1,5 +1,5 @@
 Config = {}
-Config.Locale = 'en'
+Config.Locale = 'nl'
 
 Config.Main = {
 	MenuAlign = 'top-left', -- Menu Align. Current will show on Top Left.
