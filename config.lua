@@ -251,6 +251,48 @@ Config.CarGarages = {
 		Deleter = vector3(223.80, -760.42, 29.65),
 		Heading = 157.84
 	},
+	Little_Seoul = {
+		Marker = vector3(-842.12, -744.14, 22.62),
+		Spawner = vector3(-838.98, -749.41, 23.08),
+		Deleter = vector3(-816.04, -744.07, 22.63),
+		Heading = 87.38
+	},
+	LSIA = {
+		Marker = vector3(-1030.82, -2666.08, 12.83),
+		Spawner = vector3(-1033.23, -2670.87, 13.83),
+		Deleter = vector3(-1056.25, -2646.18, 12.83),
+		Heading = 239.16
+	},
+	Los_Santos_Docks = {
+		Marker = vector3(771.43, -2991.32, 5.02),
+		Spawner = vector3(759.26, -2983.07, 5.8),
+		Deleter = vector3(783.06, -2940.2, 4.82),
+		Heading = 178.28
+	},
+	Burro_Heights = {
+		Marker = vector3(1215.41, -1511.5, 33.69),
+		Spawner = vector3(1213.27, -1516.14, 34.7),
+		Deleter = vector3(1226.47, -1516.1, 33.69),
+		Heading = 71.95
+	},
+	Lago_Zancudo = {
+		Marker = vector3(-2520.71, 2318.69, 32.22),
+		Spawner = vector3(-2526.73, 2322.94, 33.06),
+		Deleter = vector3(-2534.5, 2322.33, 32.06),
+		Heading = 83.64
+	},
+	Grapeseed = {
+		Marker = vector3(1968.85, 5167.44, 46.64),
+		Spawner = vector3(1957.8, 5160.86, 46.92),
+		Deleter = vector3(1967.98, 5177.84, 46.85),
+		Heading = 73.22
+	},
+	Power_Station = {
+		Marker = vector3(2760.46, 1435.29, 23.53),
+		Spawner = vector3(2754.29, 1443.06, 24.49),
+		Deleter = vector3(2761.91, 1448.73, 23.52),
+		Heading = 253.62
+	},
 	Sandy_Shores = {
 		Marker = vector3(1737.59, 3710.2, 33.14),
 		Spawner = vector3(1737.84, 3719.28, 33.04),
