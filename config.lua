@@ -67,7 +67,7 @@ Config.Mechanic = {
 Config.Aircrafts = {
 	Garages = true, -- true = Allows use of Aircraft Garages.
 	Blips = true, -- true = Use Aircraft Blips.
-	PoundP = 2500, -- How much it Costs to get Vehicles from Aircraft Pound.
+	PoundP = 250, -- How much it Costs to get Vehicles from Aircraft Pound.
 	Markers = {
 		Points = {Type = 1, r = 0, g = 255, b = 0, x = 1.5, y = 1.5, z = 1.0}, -- Green Color / Standard Size Circle.
 		Delete = {Type = 1, r = 255, g = 0, b = 0, x = 5.0, y = 5.0, z = 1.0}, -- Red Color / Big Size Circle.
@@ -78,7 +78,7 @@ Config.Aircrafts = {
 Config.Boats = {
 	Garages = true, -- true = Allows use of Boat Garages.
 	Blips = true, -- true = Use Boat Blips.
-	PoundP = 500, -- How much it Costs to get Vehicles from Boat Pound.
+	PoundP = 50, -- How much it Costs to get Vehicles from Boat Pound.
 	Markers = {
 		Points = {Type = 1, r = 0, g = 255, b = 0, x = 1.5, y = 1.5, z = 1.0}, -- Green Color / Standard Size Circle.
 		Delete = {Type = 1, r = 255, g = 0, b = 0, x = 5.0, y = 5.0, z = 1.0}, -- Red Color / Big Size Circle.
@@ -89,7 +89,7 @@ Config.Boats = {
 Config.Cars = {
 	Garages = true, -- true = Allows use of Car Garages.
 	Blips = true, -- true = Use Car Blips.
-	PoundP = 300, -- How much it Costs to get Vehicles from Car Pound.
+	PoundP = 30, -- How much it Costs to get Vehicles from Car Pound.
 	Markers = {
 		Points = {Type = 1, r = 0, g = 255, b = 0, x = 1.5, y = 1.5, z = 1.0}, -- Green Color / Standard Size Circle.
 		Delete = {Type = 1, r = 255, g = 0, b = 0, x = 5.0, y = 5.0, z = 1.0}, -- Red Color / Big Size Circle.
