@@ -29,9 +29,9 @@ Config.Blips = {
 }
 
 Config.Ambulance = {
-	Garages = false, -- true = Allows use of Ambulance Garages.
+	Garages = true, -- true = Allows use of Ambulance Garages.
 	Pounds = true, -- true = Allows use of Ambulance Pounds.
-	Blips = false, -- true = Use Ambulance Blips.
+	Blips = true, -- true = Use Ambulance Blips.
 	PoundP = 80, -- How much it Costs to get Vehicles from Ambulance Pound.
 	Markers = {
 		Points = {Type = 1, r = 0, g = 255, b = 0, x = 1.5, y = 1.5, z = 1.0}, -- Green Color / Standard Size Circle.
@@ -41,9 +41,9 @@ Config.Ambulance = {
 }
 
 Config.Police = {
-	Garages = false, -- true = Allows use of Police Garages.
+	Garages = true, -- true = Allows use of Police Garages.
 	Pounds = true, -- true = Allows use of Police Pounds.
-	Blips = false, -- true = Use Police Blips.
+	Blips = true, -- true = Use Police Blips.
 	PoundP = 80, -- How much it Costs to get Vehicles from Police Pound.
 	Markers = {
 		Points = {Type = 1, r = 0, g = 255, b = 0, x = 1.5, y = 1.5, z = 1.0}, -- Green Color / Standard Size Circle.
